@@ -1,0 +1,10 @@
+{
+  "name": "reallycare-bodymap",
+  "version": "1.0.0",
+  "description": "Bodymap",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

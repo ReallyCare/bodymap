@@ -1,0 +1,11 @@
+{
+  "name": "reallycare-bodymap",
+  "description": "Bodymap",
+  "main": "index.js",
+  "authors": [
+    "Mark Chapman <mark.chapman@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/ReallyCare/bodymap",
+  "private": true
+}
