@@ -1,10 +1,13 @@
 {
   "name": "reallycare-bodymap",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Bodymap",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "@types/node": "^8"
+  }
 }
