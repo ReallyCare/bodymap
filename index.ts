@@ -25,7 +25,15 @@ export const srcPics: IPicMap = {
       xOff: 0,
       yOff: 165,
       scale: 1.04
-    }
+    },
+    gen: {
+      src: path.join(assetsDir, 'gen.jpg'),
+      x: 375,
+      y: 495,
+      xOff: 0,
+      yOff: 165,
+      scale: 1.04
+    },
   };
   
   export interface IPic {
